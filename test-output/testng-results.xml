@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T21:05:46 IST" name="Default suite" finished-at="2022-06-08T21:06:08 IST" duration-ms="22756">
+    <groups>
+    </groups>
+    <test started-at="2022-06-08T21:05:46 IST" name="Default test" finished-at="2022-06-08T21:06:08 IST" duration-ms="22756">
+      <class name="TestCases.DashboardPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.DashboardPageTest@3911c2a7]" started-at="2022-06-08T21:05:46 IST" name="setup" finished-at="2022-06-08T21:05:52 IST" duration-ms="6700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyEmailIdTest()[pri:0, instance:TestCases.DashboardPageTest@3911c2a7]" started-at="2022-06-08T21:05:52 IST" name="verifyEmailIdTest" finished-at="2022-06-08T21:05:52 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailIdTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.DashboardPageTest@3911c2a7]" started-at="2022-06-08T21:05:52 IST" name="exit" finished-at="2022-06-08T21:05:53 IST" duration-ms="643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.DashboardPageTest@3911c2a7]" started-at="2022-06-08T21:05:53 IST" name="setup" finished-at="2022-06-08T21:05:59 IST" duration-ms="6196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyPlaceGttOrder()[pri:0, instance:TestCases.DashboardPageTest@3911c2a7]" started-at="2022-06-08T21:05:59 IST" name="verifyPlaceGttOrder" finished-at="2022-06-08T21:06:00 IST" duration-ms="1144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceGttOrder -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.DashboardPageTest@3911c2a7]" started-at="2022-06-08T21:06:00 IST" name="exit" finished-at="2022-06-08T21:06:01 IST" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.DashboardPageTest@3911c2a7]" started-at="2022-06-08T21:06:01 IST" name="setup" finished-at="2022-06-08T21:06:07 IST" duration-ms="5854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifynameTest()[pri:0, instance:TestCases.DashboardPageTest@3911c2a7]" started-at="2022-06-08T21:06:07 IST" name="verifynameTest" finished-at="2022-06-08T21:06:07 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifynameTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.DashboardPageTest@3911c2a7]" started-at="2022-06-08T21:06:07 IST" name="exit" finished-at="2022-06-08T21:06:08 IST" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- TestCases.DashboardPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
