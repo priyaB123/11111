@@ -42,6 +42,6 @@ public class TestBase {
 		driver.get(getProperties("url"));
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		
-		
+		//priya
 	}
 }
